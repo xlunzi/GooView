@@ -23,7 +23,7 @@ import cn.xlunzi.gooview.util.Utils;
 /**
  * 粘性控件
  *
- * @author xlz
+ * @author xlunzi
  */
 public class GooView extends View {
 
